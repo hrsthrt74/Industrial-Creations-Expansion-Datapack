@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "ic2:glass_fibre_cable",
+    "ic2:copper_cable",
+    "ic2:insulated_copper_cable",
+    "ic2:gold_cable",
+    "ic2:insulated_gold_cable",
+    "ic2:double_insulated_gold_cable",
+    "ic2:iron_cable",
+    "ic2:insulated_iron_cable",
+    "ic2:double_insulated_iron_cable",
+    "ic2:triple_insulated_iron_cable",
+    "ic2:tin_cable",
+    "ic2:insulated_tin_cable",
+    "ic2:detector_cable",
+    "ic2:splitter_cable"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "ic2:tin_can",
+    "ic2:filled_tin_can",
+    "ic2:empty_fuel_can",
+    "ic2:filled_fuel_can",
+    "ic2:empty_mug",
+    "ic2:coffee_mug",
+    "ic2:cold_coffee_mug",
+    "ic2:dark_coffee_mug",
+    "ic2:empty_cell",
+    "ic2:weed_ex_cell",
+    "ic2:hydration_cell",
+    "ic2:water_cell",
+    "ic2:lava_cell",
+    "ic2:air_cell",
+    "ic2:electrolyzed_water_cell",
+    "ic2:biofuel_cell",
+    "ic2:coalfuel_cell",
+    "ic2:bio_cell",
+    "ic2:hydrated_coal_cell"
+  ]
+}
